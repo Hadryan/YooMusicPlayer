@@ -1,7 +1,7 @@
 # YooMusicPlayer
 Music Player App with Kotlin. Which is a recommended language by Google.
 
-Welcome to TYoo Music Player open source Android app! 
+Welcome to Yoo Music Player open source Android app! 
 Hey!
 I have created an online Tutorial Series for this repo on my YouTube Channel
 
